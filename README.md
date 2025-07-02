@@ -1,4 +1,3 @@
-# first-repo
-This is my first repository.
-<br>
-Author - Ritika Asnani
+# Registration Form
+
+A basic registration form using HTML and CSS.
